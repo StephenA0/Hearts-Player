@@ -133,5 +133,3 @@ while max(total_pts) < 100 or total_pts.count(min(total_pts)) >= 2:
 
 game_winner = total_pts.index(min(total_pts))
 print("Player " + str(game_winner) + " wins!")
-
-#Test Hand: 3h 9h Th As Js Ts 9s Kd Qd Jd 3d Tc Ac
