@@ -13,7 +13,7 @@ to pass. In gameplay, you will input the cards played by other players -- on you
 round, it will tally the points and update the total. Once a player reaches 100 points, the game will end, and a winner will be crowned -- just as the standard
 Hearts rules dictate.
 
-In its current form, the program is not very "fun" to play with :) as the operator is inputting cards and just following instructions. However, card game websites
+In its current form, the program is not very "fun" to play with :) as the operator is just inputting cards and following instructions. However, card game websites
 could easily implement the program, and use it as a fairer alternative to their current omniscient algorithms.
 
 It is limited in the two following ways: it does not know how to "shoot the moon", and it does not protect the game from ending if it will likely lose. The goal of
