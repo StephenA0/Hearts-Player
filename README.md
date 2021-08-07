@@ -10,8 +10,8 @@ the "Ace of Hearts" should be represented as "Ah" (note: "10 of Diamonds" should
 
 Simply follow the prompts from there. After inputting your hand, the program will ask whether the round is a passing round or not -- if so, it will instruct cards
 to pass. In gameplay, you will input the cards played by other players -- on your turn, the program will instruct you which card to play. At the end of the 
-round, it will tally the points and update the total. Once a player reaches 100 points, the game will end, and a winner will be crowned -- just like the standard
-Hearts rules.
+round, it will tally the points and update the total. Once a player reaches 100 points, the game will end, and a winner will be crowned -- just as the standard
+Hearts rules dictate.
 
 In its current form, the program is not very "fun" to play with :) as the operator is inputting cards and just following instructions. However, card game websites
 could easily implement the program, and use it as a fairer alternative to their current omniscient algorithms.
