@@ -14,7 +14,7 @@ round, it will tally the points and update the total. Once a player reaches 100 
 Hearts rules dictate.
 
 In its current form, the program is not very "fun" to play with :) as the operator is just inputting cards and following instructions. However, card game websites
-could easily implement the program, and use it as a fairer alternative to their current omniscient algorithms.
+could easily implement the decision-making algorithm, and use it as a fairer alternative to their currently omniscient bots.
 
 It is limited in the two following ways: it does not know how to "shoot the moon", and it does not protect the game from ending if it will likely lose. The goal of
 Hearts is to minimize the number of points taken. But if a player is able to take all 26 of the points, i.e. "shoot the moon", then in fact they are awarded 0 
